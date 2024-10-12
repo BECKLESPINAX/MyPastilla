@@ -1,0 +1,41 @@
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowAbout.baml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\Window1.baml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowConfiguration.baml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowHelp.baml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowProperty.baml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowAbout.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\Window1.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowConfiguration.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowHelp.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowProperty.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\App.g.cs
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\NAudio.xml
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MyPastilla.exe
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MyPastilla.pdb
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla_MarkupCompile.cache
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.g.resources
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.exe
+C:\Documents and Settings\BlackCrystal™\Mis documentos\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MyPastilla.exe
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MyPastilla.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowAbout.baml
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\Window1.baml
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowConfiguration.baml
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowHelp.baml
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowProperty.baml
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowAbout.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\Window1.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowConfiguration.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowHelp.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\WindowProperty.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\App.g.cs
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla_MarkupCompile.cache
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.g.resources
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.exe
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\MyPastilla.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\obj\Debug\TomarPasilla.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MegalÖSoftMyPastillaStructure.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\TomarPasilla\bin\Debug\MegalÖSoftMyPastillaStructure.pdb
