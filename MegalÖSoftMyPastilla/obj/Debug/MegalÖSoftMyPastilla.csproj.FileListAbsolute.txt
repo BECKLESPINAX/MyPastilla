@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\obj\Debug\MegalÖSoftMyPastilla.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\bin\Debug\MegalÖSoftMyPastilla.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\bin\Debug\MegalÖSoftMyPastilla.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\bin\Debug\MegalÖSoftMyPastillaStructure.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\bin\Debug\MegalÖSoftMyPastillaStructure.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\obj\Debug\MegalÖSoftMyPastilla.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastilla\obj\Debug\MegalÖSoftMyPastilla.pdb
