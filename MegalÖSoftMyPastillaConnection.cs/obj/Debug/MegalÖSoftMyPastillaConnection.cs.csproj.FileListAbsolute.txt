@@ -1,0 +1,4 @@
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastillaConnection.cs\bin\Debug\MegalÖSoftMyPastillaConnection.cs.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastillaConnection.cs\bin\Debug\MegalÖSoftMyPastillaConnection.cs.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastillaConnection.cs\obj\Debug\MegalÖSoftMyPastillaConnection.cs.dll
+C:\Users\user\Documents\SharpDevelop Projects\TomarPasilla\MegalÖSoftMyPastillaConnection.cs\obj\Debug\MegalÖSoftMyPastillaConnection.cs.pdb
