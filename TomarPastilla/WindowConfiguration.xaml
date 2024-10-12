@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="MyPastilla.WindowConfiguration" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Pastillas"
+	Height="371"
+	Width="605"
+	WindowStartupLocation="CenterScreen"
+	ShowInTaskbar="False"
+	ResizeMode="NoResize" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+	Loaded="Window_Loaded" Icon="/MyPastilla;component/Images/MiPastilla.png" Foreground="Black" Background="#FFF0F0F0">
+	<Grid
+		Height="Auto"
+		Width="Auto">
+		<DataGrid
+			Name="DataGridPastilla"
+            AutoGenerateColumns="False"
+			AlternatingRowBackground="#FFF53232"
+			IsReadOnly="True"
+			CanUserResizeColumns="True"
+			CanUserDeleteRows="True"
+			CanUserAddRows="True"
+			MouseDoubleClick="DobleClick"
+			Margin="10,44,10,110"
+			VerticalAlignment="Stretch"
+			HorizontalAlignment="Stretch"
+			VerticalContentAlignment="Stretch"
+			AlternationCount="1"
+			AreRowDetailsFrozen="True"
+			Cursor="Hand"
+			Background="#FFF0F0F0"
+			ColumnHeaderHeight="25"
+			MouseLeftButtonUp="ClickMouse">
+<DataGrid.Columns>
+<DataGridTextColumn Header="ID" Binding="{Binding Path=code_pastilla}" IsReadOnly="True" Visibility="Hidden"/>
+<DataGridTextColumn Header="Descripción" Binding="{Binding Path=description_pastilla}" IsReadOnly="True"/>
+<DataGridTextColumn Header="Hora" Binding="{Binding Path=hour_pastilla}"/>
+<DataGridTextColumn Header="Tomadas" Binding="{Binding Path=tomada_pastilla}" Visibility="Hidden"/>
+<DataGridTextColumn Header="No Tomadas" Binding="{Binding Path=no_tomada_pastilla}" Visibility="Hidden"/>
+</DataGrid.Columns>
+</DataGrid>
+		<Button
+			Content="Salir"
+			Height="23"
+			HorizontalAlignment="Right"
+			Margin="0,0,10,10"
+			Name="ButtonExit"
+			VerticalAlignment="Bottom"
+			Width="75"
+			Click="ClickExit"
+			Cursor="Hand" />
+		<xctk:TimePicker
+			HorizontalAlignment="Left"
+			Margin="368,255,0,0"
+			Name="TimePickerHour"
+			VerticalAlignment="Top"
+			Width="89"
+			TimeInterval="00:01:00"
+			RenderTransformOrigin="1,1"
+			ShowButtonSpinner="False"
+			AllowSpin="True"
+			Format="LongTime"
+			Height="20" />
+		<Label
+			Content="Hora"
+			Height="25"
+			HorizontalAlignment="Left"
+			HorizontalContentAlignment="Center"
+			Margin="368,0,0,82"
+			VerticalAlignment="Bottom"
+			VerticalContentAlignment="Bottom"
+			Width="89"
+			Name="LabelHour" />
+		<Button
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Bottom"
+			Margin="0,0,90,10"
+			Width="75"
+			Height="23"
+			Content="Ayuda"
+			x:Name="ButtonHelp"
+			Click="ClickHelp" Cursor="Hand" />
+<Grid Height="36" HorizontalAlignment="Center" Margin="9,5,0,0" Name="grid1" VerticalAlignment="Top" Width="353">
+<Grid.ColumnDefinitions>
+<ColumnDefinition Width="100" />
+<ColumnDefinition Width="150" />
+<ColumnDefinition Width="100" />
+			</Grid.ColumnDefinitions>
+			<Label HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0" Width="Auto" Height="Auto" Content="Tu Nombre:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" />
+			<TextBox HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="0" Width="Auto" Height="24" x:Name="TextBoxName" Grid.Column="1" />
+			<Button HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Height="23" Content="Guardar" x:Name="ButtonSaveName" Cursor="Hand" Click="ClickSaveName" Grid.Column="2" />
+		</Grid>
+		<Grid Height="100" HorizontalAlignment="Left" Margin="10,221,0,0" Name="grid2" VerticalAlignment="Top" Width="345">
+			<Grid.RowDefinitions>
+<RowDefinition Height="29*" />
+<RowDefinition Height="30*" />
+<RowDefinition Height="41*" />
+</Grid.RowDefinitions>
+<Grid Height="Auto" HorizontalAlignment="Stretch" Margin="0" Name="grid3" VerticalAlignment="Stretch" Width="Auto" Grid.Row="2">
+<Grid.ColumnDefinitions>
+<ColumnDefinition Width="100*" />
+<ColumnDefinition Width="100*" />
+<ColumnDefinition Width="100*" />
+</Grid.ColumnDefinitions>
+				<Button Content="Agregar" x:Name="ButtonAdd" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0" Width="75" Height="23" Cursor="Hand" Click="ClickAdd" />
+				<Button Content="Actualizar" x:Name="ButtonUpdate" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0" Width="75" Height="23" Cursor="Hand" Click="ClickUpdate" Grid.Column="1" />
+				<Button Content="Eliminar" x:Name="ButtonDelete" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0" Width="75" Height="23" Cursor="Hand" Click="ClickDelete" Grid.Column="2" />
+			</Grid>
+			<Label Content="Pastilla a tomar" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0" Width="Auto" Height="Auto" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center" />
+			<TextBox Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="0" Width="Auto" Height="20" Name="TextBoxPastilla" MaxLength="200" IsReadOnly="False" />
+		</Grid>
+	</Grid>
+</Window>
